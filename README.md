@@ -11,3 +11,4 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 | Day 1: 2018-08-23 |[Data PreProcessing](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md)|
 | Day 2: 2018-08-24 |[Simple Linear Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md)|
 | Day 3: 2018-08-25 |[Multiple Linear Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md)|
+| Day 4: 2018-08-26 |[Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)|
