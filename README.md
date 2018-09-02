@@ -13,3 +13,4 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 | Day 3: 2018-08-25 |[Multiple Linear Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md)|
 | Day 4: 2018-08-26 |[Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)|
 | Day 5: 2018-09-01 |[Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-5)|
+| Day 6: 2018-09-02 |[Implementing Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)|
