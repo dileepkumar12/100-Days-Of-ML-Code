@@ -15,3 +15,4 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 | Day 5: 2018-09-01 |[Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-5)|
 | Day 6: 2018-09-02 |[Implementing Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)|
 | Day 7: 2018-09-03 |[K Nearest Neighbours](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)|
+| Day 8: 2018-09-04 |[Math Behind Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#math-behind-logistic-regression--day-8)|
