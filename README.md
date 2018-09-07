@@ -6,8 +6,8 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 
 ## Schedule
 
-| Data | Task |
-| ------ | ------ |
+| Data | Task | Comment |
+| ------ | ------ | ------ |
 | Day 1: 2018-08-23 |[Data PreProcessing](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md)|
 | Day 2: 2018-08-24 |[Simple Linear Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md)|
 | Day 3: 2018-08-25 |[Multiple Linear Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md)|
@@ -17,3 +17,4 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 | Day 7: 2018-09-03 |[K Nearest Neighbours](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)|
 | Day 8: 2018-09-04 |[Math Behind Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#math-behind-logistic-regression--day-8)|
 | Day 9: 2018-09-05 |[Support Vector Machines](https://github.com/Avik-Jain/100-Days-Of-ML-Code#support-vector-machines--day-9)|
+| Day 10: 2018-09-07 |[SVM and KNN](https://github.com/Avik-Jain/100-Days-Of-ML-Code#svm-and-knn--day-10)| [Kaggle: Titanic](https://www.kaggle.com/c/titanic/data) |
