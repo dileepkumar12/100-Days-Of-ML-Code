@@ -18,3 +18,4 @@ From: [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-M
 | Day 8: 2018-09-04 |[Math Behind Logistic Regression](https://github.com/Avik-Jain/100-Days-Of-ML-Code#math-behind-logistic-regression--day-8)|
 | Day 9: 2018-09-05 |[Support Vector Machines](https://github.com/Avik-Jain/100-Days-Of-ML-Code#support-vector-machines--day-9)|
 | Day 10: 2018-09-07 |[SVM and KNN](https://github.com/Avik-Jain/100-Days-Of-ML-Code#svm-and-knn--day-10)| [Kaggle: Titanic](https://www.kaggle.com/c/titanic/data) |
+| Day 10: 2018-09-08 |[Implementation of K-NN](https://github.com/Avik-Jain/100-Days-Of-ML-Code#implementation-of-k-nn--day-11)| [Kaggle: Titanic](https://www.kaggle.com/c/titanic/data) |
